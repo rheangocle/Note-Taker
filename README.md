@@ -12,7 +12,7 @@
 
 ## Summary
 
-On Note Taker, the user can save and delete notes to keep themselves on track. Express js was used in the backend to create the functionality for this application. The application can also be views on [Heroku]().
+On Note Taker, the user can save and delete notes to keep themselves on track. Express js was used in the backend to create the functionality for this application. The application can also be views on [Heroku](https://young-meadow-84172.herokuapp.com).
 
 ## User Story
 
@@ -36,13 +36,15 @@ npm install express --save
 npm i uuid
 ```
 
+-- Heroku: application deployment
+
 ## Tests
 
-Jest was used to test this application.
+No tests performed for this application.
 
 ## Mock-up
 
-[Click to view walkthrough video](https://drive.google.com/file/d/1ItGIlJAm0WZXj4F5ywZKIB9arZCBt1Sc/view?usp=sharing)
+![Click to view walkthrough video](https://drive.google.com/file/d/1ItGIlJAm0WZXj4F5ywZKIB9arZCBt1Sc/view?usp=sharing)
 
 ![Screenshot of My Team html page](./assets/images/team-profile-page.PNG)
 
