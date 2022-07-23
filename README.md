@@ -44,7 +44,7 @@ No tests performed for this application.
 
 ## Mock-up
 
-![Gif of note taker appliction, user is taken to homepage where they click get started to enter the note page. Then the user can save notes later delete individual notes](./public/assets/images/Note%20taker%202%20Jul%2023%2C%202022%204_23%20PM.gif.gif)
+![Gif of note taker appliction, user is taken to homepage where they click get started to enter the note page. Then the user can save notes later delete individual notes](./public/assets/images/Note%20taker%202%20Jul%2023%2C%202022%204_23%20PM.gif)
 
 ---
 
