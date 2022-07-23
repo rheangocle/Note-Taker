@@ -1,12 +1,7 @@
 [
     {
         "title": "hello there",
-        "text": "this is first saved note",
-        "id": "9b51c8b1-e4e2-4f2e-b7c5-2c6a25a53ce7"
-    },
-    {
-        "title": "new test",
-        "text": "test",
-        "id": "e7c07916-17b5-4d6c-8105-1aa4b91bfade"
+        "text": "this is note one\n",
+        "id": "6ad823a3-1960-4036-a999-eb97a392d719"
     }
 ]
