@@ -31,13 +31,8 @@ notes.delete('/:id', (req, res) => {
     .then((data) => JSON.parse(data))
     .then((json) => {
       // Make a new array of all tips except the one with the ID provided in the URL
-      //let newNoteId = 0;
       const result = json.filter((note) => note.id !== noteId);
 
-      // for (note of result) {
-      //   notes.id = newNoteId.toString();
-      //   newNoteId++;
-      // }
       // Save that array to the filesystem
       writeToFile('./db/db.json', result);
 
