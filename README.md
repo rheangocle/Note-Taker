@@ -36,7 +36,7 @@ npm install express --save
 npm i uuid
 ```
 
--- Heroku: application deployment
+- ✅ Heroku: application deployment
 
 ## Tests
 
